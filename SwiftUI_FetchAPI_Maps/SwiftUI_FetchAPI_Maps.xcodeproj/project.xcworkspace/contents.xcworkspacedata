@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:JSON Api and Maps.xcodeproj">
+      location = "self:SwiftUI_FetchAPI_Maps.xcodeproj">
    </FileRef>
 </Workspace>
